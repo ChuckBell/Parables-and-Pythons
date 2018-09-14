@@ -1,0 +1,27 @@
+Homework #1
+
+The following is the homework assignment for the first class held on 12 September.
+
+Homework assignments are voluntary, but are designed to reinforce concepts and help you learn Python programming. Doing the homework regularly will be rewarding in two ways. First, you will get a chance to experience Python beyond the classwork. Second, you will earn points to be added to your score for the programming challenge.
+
+Recall, we will be having a programming contest on the last day of class. Any points you earn from correctly completing homework assignments will be added to your score.
+
+To earn the point values assigned, you must complete the assignment and turn it in before the start of the next class. Be sure to write your name on your printout!
+
+1. (0 points) Install Python on your laptop.
+
+2. (1 point) Start the Python interpreter and enter the following lines of code. Print out your screen and turn it in for (1) bonus point for the programming tournament. Use these values: [-1, 13, 25, and 12312313]. That is, your printout should show your Python code running (4) times; once for each value.
+
+num = input("Please enter a number: ")
+num_sqrt = float(num) ** 0.5
+print("The square root of {0} is {1}.".format(num, num_sqrt))
+
+3. (1 point) For an extra point, save the code to a file and run it as a script and printout a transcript. Be sure to use all four values listed above.
+
+Note: if you combine (2) and (3), you will only receive one point. You must do the steps separately to earn maximum points.
+
+Note: if you use Python 2.7, the outer parenthesis on the print statement are not needed. I will show you how to overcome this issue in the next class.
+ 
+
+
+
