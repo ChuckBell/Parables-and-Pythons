@@ -1,0 +1,15 @@
+Homework #2
+
+The following is the homework assignment for the first class held on 19 September.
+
+Reminder: To earn the point values assigned, you must complete the assignment and turn it in before the start of the next class. Be sure to write your name on your printout!
+
+1. (0 points) Download the class files from Github
+
+2. (2 points) Create a file named celsius_to_fahrenheit.py to convert Celsius to Fahrenheit. Hint: you must reverse the formula. Turn in a transcript of at least 4 values converted. Hint: python ./celsius_to_fahrenheit.py.
+
+3. (1 point) Install Git on your computer and clone the repository. Turn in the output of the command, “git pull”.
+ 
+
+
+
