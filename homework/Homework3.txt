@@ -1,0 +1,15 @@
+Homework #3
+
+The following is the homework assignment for the class held on 26 September.
+
+Reminder: To earn the point values assigned, you must complete the assignment and turn it in before the start of the next class. Be sure to write your name on your printout!
+
+1. (2 points) Change the example dice simulator to simulate rolling two dice at the same time. Ask the user for the size of each die (number of sides). Ask the user for the number of times to roll both dice. Print out the results for each roll. Hint: ÒYou rolled a 6 and a 3.Ó
+
+2. (2 bonus points) Make the program run until the user is finished. Hint: use a for loop with a prompt after the simulation.
+
+3. (2 bonus points) Do the first bonus (2) using a While loop.
+ 
+
+
+
