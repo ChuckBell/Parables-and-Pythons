@@ -1,0 +1,15 @@
+Homework #4
+
+The following is the homework assignment for the class held on 10 October.
+
+Reminder: To earn the point values assigned, you must complete the assignment and turn it in before the start of the next class. Be sure to write your name on your printout!
+
+1. (2 points) Make a Yahtzee simulator to roll (5) 6-sided die at one time. (See https://en.wikipedia.org/wiki/Yahtzee). Calculate all of the random values saving each to a list. Print the list of values. Hint: you need only one for loop.
+
+diceRolls = [0,0,0,0,0]
+diceRolls[3] = 99
+print(diceRolls)
+
+2. (2 bonus points) Print out the dice rolls in ascending order (hint: you will need to sort the list).
+
+
