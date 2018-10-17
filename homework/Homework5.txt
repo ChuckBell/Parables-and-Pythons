@@ -1,0 +1,13 @@
+Homework #5
+
+The following is the homework assignment for the class held on 17 October.
+
+Reminder: To earn the point values assigned, you must complete the assignment and turn it in before the start of the next class. Be sure to write your name on your printout!
+
+1. (2 points) Modify the yahtzee1.py script (rename to yahtzee2.py) to store each set of rolls in a list inserting the last roll at the front of the list (this is called a stack Ð a fundamental data structure in computer science - LIFO)
+
+2. (2 bonus points) Change the stack to a queue. Hint: a queue is a FIFO data structure.
+
+3. (1 bonus point) Store the roll number with the dice rolls as a tuple. Hint: a tuple is formed with parenthesis and values separated by commas.
+    myTuple = (3, [1,2,3])   # a tuple with one integer and a list
+
