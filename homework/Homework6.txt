@@ -1,0 +1,14 @@
+Homework #6
+
+The following is the homework assignment for the class held on 24 October.
+
+Reminder: To earn the point values assigned, you must complete the assignment and turn it in before the start of the next class. Be sure to write your name on your printout!
+
+1. (2 points) Create a script named ‘rolodex1.py’ that prompts the user for the name, address, and phone number for at least 5 entries. Print out the dictionary. Hint: you will need a dictionary with at least 7 fields (first_name, last_name, street, city, state, zip, phone). Hint: each entry in the rolodex is a dictionary, but the rolodex can be a list.
+
+2. (2 bonus points) Print the names in the dictionary in last name, first name order. Note: entering the data in order does not count towards these bonus points.
+
+3. (1 bonus point) Make the address a dictionary.
+
+4. (4 bonus points) Permit the user to enter more than one phone number and store them in the dictionary. Show a printout of the dictionary.
+print(rolodex)
