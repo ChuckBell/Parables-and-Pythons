@@ -1,0 +1,15 @@
+Homework #7
+
+The following is the homework assignment for the class held on 7 November.
+
+Reminder: To earn the point values assigned, you must complete the assignment and turn it in before the start of the next class. Be sure to write your name on your printout!
+
+1. (2 points) Create a script named ‘rolodex2.py’ that revises (called refactoring) the rolodex assignment at least one function:
+    get_record() – gets a record (dictionary) from the user
+
+2. (2 bonus points) Isolate the input() call to a single function:
+    get_string(prompt) – pass in the prompt and return a string from the user. Hint: there should be exactly (1) call to input() in the resulting code.
+
+3. (1 bonus point) Use a function to print the rolodex:
+    print_rolodex(rolodex) – print the contents of the rolodex.
+
