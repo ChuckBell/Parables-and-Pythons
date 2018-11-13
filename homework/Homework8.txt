@@ -1,0 +1,31 @@
+Homework #8
+
+The following is the homework assignment for the class held on 14 November.
+
+Reminder: To earn the point values assigned, you must complete the assignment and turn it in before the start of the next class. Be sure to write your name on your printout!
+
+1. (2 points) Make a tic-tac-toe game that takes input in the form of row, col for  each player. Use a list of lists to store the board and contents. Prompt until a winner is determined.
+    ttt_board = [[-1,-1,-1],[-1,-1,-1],[-1,-1,-1]] -1 = not chosen, X or 0 
+
+2. (2 bonus points) Use a function to print the “board”.
+    print_board(board, row, col) – takes a list of 
+
+3. (1 bonus point) Use a function to determine if there is a winner:
+    check_for_winner(board) – print the contents of the rolodex.
+
+WAIT! How do you print a tic-tac-toe board on the screen? Notice on your keyboard there is a | and – as well as +.
+
+Consider what this does:
+
+board = [[-1,-1,-1],[-1,-1,-1],[-1,-1,-1]]
+print("+-+-+-+")
+for row in board:
+    for col in range(0,3):
+        if row[col] in ('X','O'):
+            print("|{0}".format(row[col]), end='')
+        else:
+            print("| ", end='')
+    print("|")
+    print("+-+-+-+")
+
+
